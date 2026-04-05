@@ -1,0 +1,5 @@
+{
+  "name": "Medical Matchmaking Portal",
+  "description": "A portal for consulting with AI to find the best medical specialist matches based on health history and symptoms.",
+  "requestFramePermissions": []
+}
